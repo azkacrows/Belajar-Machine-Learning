@@ -43,5 +43,3 @@ Proyek ini merupakan bagian dari kursus "Belajar Machine Learning untuk Pemula" 
 
 **Date**: June 26, 2024
 
-**Original Repository**:\
-https://github.com/azkacrows/belajar-machine-learning
